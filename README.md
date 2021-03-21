@@ -67,3 +67,11 @@ By default, we use the DUTS training set for training:
   ```
   python train.py --pretrained Pretrained/HVPNet_backbone_pretrain.pth --model Models.HVPNet --savedir ./Results
   ```
+
+### Useful links
+
+Here are the project pages of our other saliency detection papers:
+
+[DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection (IEEE TCYB)](https://github.com/yun-liu/DNA)
+
+[Regularized Densely-connected Pyramid Network for Salient Instance Segmentation (IEEE TIP)](https://github.com/yuhuan-wu/RDPNet)
