@@ -1,6 +1,6 @@
 ## Fast Saliency
 
-This repository contains the code for our two fast saliency detection papers: "**SAMNet: Stereoscopically Attentive Multi-scale Network for Lightweight Salient Object Detection**" (IEEE TIP) and "**Lightweight Salient Object Detection via Hierarchical Visual Perception Learning**" (IEEE TCYB).
+This repository contains the code for our two fast saliency detection papers: "**[SAMNet: Stereoscopically Attentive Multi-scale Network for Lightweight Salient Object Detection](https://yun-liu.github.io/papers/(TIP'2021)SAMNet%20-%20Stereoscopically%20Attentive%20Multi-scale%20Network%20for%20Lightweight%20Salient%20Object%20Detection.pdf)**" (IEEE TIP) and "**[Lightweight Salient Object Detection via Hierarchical Visual Perception Learning](https://yun-liu.github.io/papers/(TCYB'2020)Lightweight%20Salient%20Object%20Detection%20via%20Hierarchical%20Visual%20Perception%20Learning.pdf)**" (IEEE TCYB).
 
 We use Python 3.5, PyTorch 0.4.1, cuda 9.0, and numpy 1.17.3 to test the code. We recommend to use [Anaconda](https://www.anaconda.com/).
 
@@ -26,7 +26,7 @@ If you are using the code/model/data provided here in a publication, please cons
   
 ### Precomputed saliency maps
 
-Precomputed saliency maps for 12 widely-used saliency datasets (_i.e._, ECSSD, DUT-OMRON, DUTS-TE, HKU-IS, SOD, THUR15K, Judd, MSRA-B, MSRA10K, PASCALS, SED1, SED2) are available in the `[SaliencyMaps](https://github.com/yun-liu/FastSaliency/tree/master/SaliencyMaps)` folder. Note that if a compressed file is larger than 100 Mb, we divided it into two files.
+Precomputed saliency maps for 12 widely-used saliency datasets (_i.e._, ECSSD, DUT-OMRON, DUTS-TE, HKU-IS, SOD, THUR15K, Judd, MSRA-B, MSRA10K, PASCALS, SED1, SED2) are available in the [`SaliencyMaps`](https://github.com/yun-liu/FastSaliency/tree/master/SaliencyMaps) folder. Note that if a compressed file is larger than 100 Mb, we divided it into two files.
 
 ### Testing and training
 
@@ -36,7 +36,7 @@ Before running the code, you should first link the saliency datasets to the ROOT
   ln -s /path/to/saliency/datasets/ Data
   ```
   
-Hence, the generated `Data` folder contains all datasets. We have put data lists in the folder of `[Lists](https://github.com/yun-liu/FastSaliency/tree/master/Lists)`. The pretrained models are put in the `[Pretrained](https://github.com/yun-liu/FastSaliency/tree/master/Pretrained)` folder.
+Hence, the generated `Data` folder contains all datasets. We have put data lists in the folder of [`Lists`](https://github.com/yun-liu/FastSaliency/tree/master/Lists). The pretrained models are put in the [`Pretrained`](https://github.com/yun-liu/FastSaliency/tree/master/Pretrained) folder.
 
 #### Testing SAMNet
 
