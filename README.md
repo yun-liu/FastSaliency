@@ -12,6 +12,8 @@ If you are using the code/model/data provided here in a publication, please cons
       title={{SAMNet}: Stereoscopically Attentive Multi-scale Network for Lightweight Salient Object Detection},
       author={Liu, Yun and Zhang, Xin-Yu and Bian, Jia-Wang and Zhang, Le and Cheng, Ming-Ming},
       journal={IEEE Transactions on Image Processing},
+      volume={30},
+      pages={3804--3814},
       year={2021},
       publisher={IEEE}
     }
