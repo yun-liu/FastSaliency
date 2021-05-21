@@ -8,7 +8,7 @@ We use Python 3.5, PyTorch 0.4.1, cuda 9.0, and numpy 1.17.3 to test the code. W
 
 If you are using the code/model/data provided here in a publication, please consider citing:
 
-    @article{liu2020samnet,
+    @article{liu2021samnet,
       title={{SAMNet}: Stereoscopically Attentive Multi-scale Network for Lightweight Salient Object Detection},
       author={Liu, Yun and Zhang, Xin-Yu and Bian, Jia-Wang and Zhang, Le and Cheng, Ming-Ming},
       journal={IEEE Transactions on Image Processing},
