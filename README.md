@@ -77,3 +77,5 @@ Here are the project pages of our other saliency detection papers:
 [DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection (IEEE TCYB)](https://github.com/yun-liu/DNA)
 
 [Regularized Densely-connected Pyramid Network for Salient Instance Segmentation (IEEE TIP)](https://github.com/yuhuan-wu/RDPNet)
+
+[A Simple Saliency Detection Approach via Automatic Top-Down Feature Fusion (Neurocomputing)](https://github.com/yun-liu/ATDF)
