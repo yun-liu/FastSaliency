@@ -22,6 +22,9 @@ If you are using the code/model/data provided here in a publication, please cons
       title={Lightweight Salient Object Detection via Hierarchical Visual Perception Learning},
       author={Liu, Yun and Gu, Yu-Chao and Zhang, Xin-Yu and Wang, Weiwei and Cheng, Ming-Ming},
       journal={IEEE Transactions on Cybernetics},
+      volume={51},
+      number={9},
+      pages={4439--4449},
       year={2020},
       publisher={IEEE}
     }
