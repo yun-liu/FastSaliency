@@ -2,7 +2,7 @@
 
 This repository contains the code for our two fast saliency detection papers: "**[SAMNet: Stereoscopically Attentive Multi-scale Network for Lightweight Salient Object Detection](https://ieeexplore.ieee.org/document/9381668)**" (IEEE TIP) and "**[Lightweight Salient Object Detection via Hierarchical Visual Perception Learning](https://ieeexplore.ieee.org/document/9285193)**" (IEEE TCYB).
 
-We use Python 3.5, PyTorch 0.4.1, cuda 9.0, and numpy 1.17.3 to test the code. We recommend to use [Anaconda](https://www.anaconda.com/).
+We use Python 3.5, PyTorch 0.4.1, cuda 9.0, and numpy 1.17.3 to test the code. We recommend using [Anaconda](https://www.anaconda.com/).
 
 ### Citations
 
