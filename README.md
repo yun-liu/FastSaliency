@@ -77,8 +77,10 @@ By default, we use the DUTS training set for training:
 
 Here are the project pages of our other saliency detection papers:
 
-[DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection (IEEE TCYB)](https://github.com/yun-liu/DNA)
+[DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection (IEEE TCYB 2022)](https://github.com/yun-liu/DNA)
 
-[Regularized Densely-connected Pyramid Network for Salient Instance Segmentation (IEEE TIP)](https://github.com/yuhuan-wu/RDPNet)
+[EDN: Salient Object Detection via Extremely-Downsampled Network (IEEE TIP 2022)](https://github.com/yuhuan-wu/EDN)
 
-[A Simple Saliency Detection Approach via Automatic Top-Down Feature Fusion (Neurocomputing)](https://github.com/yun-liu/ATDF)
+[Regularized Densely-connected Pyramid Network for Salient Instance Segmentation (IEEE TIP 2021)](https://github.com/yuhuan-wu/RDPNet)
+
+[A Simple Saliency Detection Approach via Automatic Top-Down Feature Fusion (Neurocomputing 2020)](https://github.com/yun-liu/ATDF)
